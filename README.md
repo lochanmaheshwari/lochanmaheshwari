@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @lochanmaheshwari
 - 👀 I’m interested in android development and java
 - 🌱 I’m currently learning java
-- 💞️ I’m looking to collaborate on adroid projects
+- 💞️ I’m looking to collaborate on android projects
 - 📫 email :- lochanmaheshwari23@gmail.com
 
 <!---
